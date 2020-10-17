@@ -1,0 +1,85 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+section {
+  padding: 3% 0;
+}
+
+#title {
+  background: #c8d115;
+  padding: 3%% 10%;
+}
+#lojas {
+  text-align: center;
+  padding: 100px;
+}
+#empresas {
+  text-align: center;
+  background-color: #ddf796;
+  color: #979797;
+}
+.big-heading {
+  padding-bottom: 2.5rem;
+  color: white;
+  font-weight: bold;
+  line-height: 1.5;
+}
+.cover-img {
+  border-radius: 10%;
+}
+
+.far,.fas, .fab {
+  font-size: 2;
+  color: #de4463;
+}
+.lojas-img {
+  width: 12.5rem;
+  height: 12.5rem;
+  border-radius: 50%;
+  padding-bottom: 2%;
+}
+.lojas-par {
+  padding: 2% 0;
+}
+.lojas-title {
+  font-weight: bold;
+}
+.main-but {
+  width: 8.2rem;
+  margin: 2%;
+}
+.navbar {
+  height: 100px;
+}
+.navbar-brand {
+  font-weight: bold;
+  font-size: 2rem;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+.primeira-sec {
+  text-align: left;
+  padding: 5% 10%;
+}
+.section-par {
+  width:60%;
+  margin: auto;
+  padding-bottom: 2%;
+}
+.section-subtitle {
+  font-weight: bold;
+}
+.section-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 3%;
+}
+.top-section {
+  margin: 3% auto;
+  width: 65%;
+}
+.vantagens {
+  width: 75%;
+  margin: 3% auto;
+}
