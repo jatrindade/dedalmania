@@ -113,10 +113,13 @@ thead {
 }
 @media (max-width:1028px) {
 .cover-img {
-  visibility: hidden;
+  display:none;
 }
 #lojas {
   padding: 10px;
+}
+#empresas p {
+  display:none;
 }
 
 }
